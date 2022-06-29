@@ -1,0 +1,15 @@
+E:\Binance-Server\Binance-Server\bin\Debug\net6.0\Binance-Server.exe
+E:\Binance-Server\Binance-Server\bin\Debug\net6.0\Binance-Server.deps.json
+E:\Binance-Server\Binance-Server\bin\Debug\net6.0\Binance-Server.runtimeconfig.json
+E:\Binance-Server\Binance-Server\bin\Debug\net6.0\Binance-Server.dll
+E:\Binance-Server\Binance-Server\bin\Debug\net6.0\Binance-Server.pdb
+E:\Binance-Server\Binance-Server\obj\Debug\net6.0\Binance-Server.csproj.AssemblyReference.cache
+E:\Binance-Server\Binance-Server\obj\Debug\net6.0\Binance-Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Binance-Server\Binance-Server\obj\Debug\net6.0\Binance-Server.AssemblyInfoInputs.cache
+E:\Binance-Server\Binance-Server\obj\Debug\net6.0\Binance-Server.AssemblyInfo.cs
+E:\Binance-Server\Binance-Server\obj\Debug\net6.0\Binance-Server.csproj.CoreCompileInputs.cache
+E:\Binance-Server\Binance-Server\obj\Debug\net6.0\Binance-Server.dll
+E:\Binance-Server\Binance-Server\obj\Debug\net6.0\refint\Binance-Server.dll
+E:\Binance-Server\Binance-Server\obj\Debug\net6.0\Binance-Server.pdb
+E:\Binance-Server\Binance-Server\obj\Debug\net6.0\Binance-Server.genruntimeconfig.cache
+E:\Binance-Server\Binance-Server\obj\Debug\net6.0\ref\Binance-Server.dll
